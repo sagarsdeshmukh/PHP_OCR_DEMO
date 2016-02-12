@@ -1,4 +1,4 @@
-# PHP_OCR_DEMO
+# PHP OCR DEMO
 
 This demo is made for windows machine
 
